@@ -3,6 +3,10 @@
 # Titel
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
 
+## User Story
+
+De user story waar ik aan ga werken is: "Als student wil ik voorbeeldopdrachten zien zodat ik kan zien wat de bedoeling is van de werkvorm"
+
 ## Inhoudsopgave
 
   * [Beschrijving](#beschrijving)
